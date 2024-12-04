@@ -1,0 +1,2418 @@
+{
+    "entities": [
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that implemented various economic strategies to mitigate the impacts of the pandemic.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "A global outbreak of disease that significantly disrupted economies and societies worldwide.",
+            "type": "Event"
+        },
+        {
+            "name": "Atmanirbhar Bharat Abhiyan",
+            "id": "3",
+            "description": "A self-reliant India campaign aimed at providing targeted relief to various sectors of the economy during the pandemic.",
+            "type": "Policy Initiative"
+        },
+        {
+            "name": "Digitalisation",
+            "id": "4",
+            "description": "The transformation of service delivery through digital technology, which became crucial during the pandemic.",
+            "type": "Process"
+        },
+        {
+            "name": "Supply Chain Disruptions",
+            "id": "5",
+            "description": "The interruptions in the flow of goods and services that have affected the economy, particularly during the pandemic.",
+            "type": "Economic Issue"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse culture and large population, India has experienced significant economic recovery and growth over the past three years, achieving a real GDP in FY24 that is 20 percent higher than its level in FY20.",
+            "type": "Country"
+        },
+        {
+            "name": "Global Economy",
+            "id": "2",
+            "description": "The combined economies of all the countries in the world, which saw a growth of 3.2 percent in 2023, reflecting stability despite ongoing geopolitical uncertainties and challenges.",
+            "type": "Concept"
+        },
+        {
+            "name": "International Monetary Fund",
+            "id": "3",
+            "description": "An international organization working to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty. It provided insights through its World Economic Outlook report.",
+            "type": "Organization"
+        },
+        {
+            "name": "Pandemic",
+            "id": "4",
+            "description": "A global outbreak of disease that has influenced economic scenarios and led to various impacts on labor markets and GDPs around the world, including in India.",
+            "type": "Event"
+        },
+        {
+            "name": "Geopolitical Risk Index",
+            "id": "1",
+            "description": "An index based on a tally of newspaper articles that cover geopolitical tensions, calculated monthly based on the share of adverse geopolitical event articles in comparison to total articles across ten newspapers.",
+            "type": "Index"
+        },
+        {
+            "name": "Global Supply Chain Pressure Index",
+            "id": "2",
+            "description": "An index that measures standard deviations from its historical average where higher values indicate increased pressure on the global supply chain.",
+            "type": "Index"
+        },
+        {
+            "name": "Global Trade",
+            "id": "3",
+            "description": "The exchange of goods and services across international borders, which has moderated due to various factors including rising geopolitical tensions and cross-border restrictions.",
+            "type": "Economic Activity"
+        },
+        {
+            "name": "Inflation",
+            "id": "4",
+            "description": "The rate at which the general level of prices for goods and services is rising, significantly higher due to persistent core inflation impacting the economy.",
+            "type": "Economic Condition"
+        },
+        {
+            "name": "Foreign Direct Investment (FDI)",
+            "id": "5",
+            "description": "Investment made by a company or individual in one country in business interests in another country, which has seen moderation due to geopolitical developments and cautious investor sentiments.",
+            "type": "Economic Activity"
+        },
+        {
+            "name": "World Economic Outlook",
+            "id": "6",
+            "description": "An IMF report that projects global economic trends, highlighting the variances in growth across countries post-pandemic.",
+            "type": "Report"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that registered a steep decline in economic growth during the pandemic but recovered swiftly, aided by strong private consumption and government impetus to infrastructure investment.",
+            "type": "Country"
+        },
+        {
+            "name": "China",
+            "id": "2",
+            "description": "A country in East Asia that experienced a slight moderation in growth during the pandemic due to swift policy actions including a high vaccination rate, but growth has slowed subsequently due to structural issues.",
+            "type": "Country"
+        },
+        {
+            "name": "United States",
+            "id": "3",
+            "description": "A country in North America that witnessed continued growth momentum despite high inflationary pressures which led to substantial policy rate increases.",
+            "type": "Country"
+        },
+        {
+            "name": "Euro Area",
+            "id": "4",
+            "description": "A region that has faced subdued economic activity with the magnitude of the downturn easing, largely affected by domestic structural issues and geopolitical conflicts.",
+            "type": "Region"
+        },
+        {
+            "name": "Germany",
+            "id": "5",
+            "description": "A country in Europe that encountered subdued growth largely impacted by economic shocks from the Russia-Ukraine conflict.",
+            "type": "Country"
+        },
+        {
+            "name": "France",
+            "id": "6",
+            "description": "A country in Europe that faced subdued growth due to economic challenges stemming from geopolitical events.",
+            "type": "Country"
+        },
+        {
+            "name": "Japan",
+            "id": "7",
+            "description": "A country in East Asia that experienced subdued economic growth post-pandemic but is expected to recover driven by a weak yen and improved consumer spending.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "8",
+            "description": "A global outbreak of a disease that caused significant economic disruption across various countries, leading to declines in growth and varying recovery trajectories.",
+            "type": "Event"
+        },
+        {
+            "name": "Indonesia",
+            "id": "1",
+            "description": "A Southeast Asian nation known for its diverse culture and geography. In 2021, Indonesia's GDP growth rate was recorded at 112.",
+            "type": "Country"
+        },
+        {
+            "name": "Italy",
+            "id": "2",
+            "description": "A European country with a rich historical legacy. In 2022, Italy's GDP growth rate was noted at 103.",
+            "type": "Country"
+        },
+        {
+            "name": "Japan",
+            "id": "3",
+            "description": "An island nation in East Asia known for its technological advancements. In 2023, Japan's GDP growth rate was recorded at 101.",
+            "type": "Country"
+        },
+        {
+            "name": "Mexico",
+            "id": "4",
+            "description": "A country in North America characterized by its vibrant culture. In 2022, Mexico's GDP growth rate was noted at 104.",
+            "type": "Country"
+        },
+        {
+            "name": "South Africa",
+            "id": "5",
+            "description": "A country located at the southern tip of Africa known for its diversity. In 2022, South Africa's GDP growth rate was recorded at 101.",
+            "type": "Country"
+        },
+        {
+            "name": "Thailand",
+            "id": "6",
+            "description": "A Southeast Asian nation known for its tropical beaches and rich cultural heritage. In 2023, Thailand's GDP growth rate was recorded at 100.",
+            "type": "Country"
+        },
+        {
+            "name": "United Kingdom",
+            "id": "7",
+            "description": "A country off the northwestern coast of mainland Europe with a historical impact on global affairs. In 2022, the UK's GDP growth rate was noted at 102.",
+            "type": "Country"
+        },
+        {
+            "name": "United States",
+            "id": "8",
+            "description": "A large country in North America with a diverse economy. In 2021, the GDP growth rate for the US was noted at 108.",
+            "type": "Country"
+        },
+        {
+            "name": "Global PMI",
+            "id": "9",
+            "description": "The JP Morgan global composite Purchasing Managers\u2019 Index, a gauge for economic activity, has shown an increase since October 2023.",
+            "type": "Event"
+        },
+        {
+            "name": "Red Sea Crisis",
+            "id": "10",
+            "description": "A geopolitical situation characterized by heightened tensions affecting multiple nations in the Red Sea region.",
+            "type": "Event"
+        },
+        {
+            "name": "Middle East",
+            "id": "1",
+            "description": "A geopolitical region encompassing Western Asia and parts of North Africa, known for its strategic importance and complex political dynamics.",
+            "type": "Region"
+        },
+        {
+            "name": "Supply Chain Disruptions",
+            "id": "2",
+            "description": "Interruptions in the flow of goods and materials that impact economic activities globally, particularly influenced by geopolitical tensions.",
+            "type": "Event"
+        },
+        {
+            "name": "Red Sea",
+            "id": "3",
+            "description": "A seawater inlet of the Indian Ocean between Africa and Asia, significant for international shipping routes.",
+            "type": "Location"
+        },
+        {
+            "name": "Global Trade and Operations",
+            "id": "4",
+            "description": "The interconnected economic activities that involve the exchange of goods and services on a global scale.",
+            "type": "Concept"
+        },
+        {
+            "name": "Geopolitical Risk Index",
+            "id": "5",
+            "description": "An index that measures the perceived risk in geopolitics affecting economic stability and security.",
+            "type": "Metric"
+        },
+        {
+            "name": "Russia - Ukraine Conflict",
+            "id": "6",
+            "description": "A geopolitical conflict that has resulted in significant global economic repercussions, particularly in energy and food markets.",
+            "type": "Event"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that has faced economic challenges, particularly in conjunction with global events such as the COVID-19 pandemic and its aftermath.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "A global outbreak of a disease that has caused significant economic and social disruptions worldwide, impacting inflation and monetary policy.",
+            "type": "Event"
+        },
+        {
+            "name": "European Central Bank",
+            "id": "3",
+            "description": "The central bank for the Eurozone, responsible for managing the euro and implementing monetary policy to ensure price stability.",
+            "type": "Institution"
+        },
+        {
+            "name": "Federal Reserve",
+            "id": "4",
+            "description": "The central bank of the United States, which plays a key role in influencing domestic and global economic conditions through its monetary policy decisions.",
+            "type": "Institution"
+        },
+        {
+            "name": "China",
+            "id": "5",
+            "description": "A country in East Asia that has implemented policy stimulus measures to revive its economy, particularly in the face of challenges in the real estate sector.",
+            "type": "Country"
+        },
+        {
+            "name": "United States",
+            "id": "1",
+            "description": "A country in North America that has significant influence on global financial conditions and monetary policy.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "Global outbreak of a disease that has prompted various economic responses from governments and central banks.",
+            "type": "Event"
+        },
+        {
+            "name": "National Financial Conditions Index",
+            "id": "3",
+            "description": "An index measuring the relative ease or difficulty of obtaining financing in the United States; higher values indicate tighter financial conditions.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Inflation",
+            "id": "4",
+            "description": "The rate at which the general level of prices for goods and services is rising, eroding purchasing power.",
+            "type": "Economic Phenomenon"
+        },
+        {
+            "name": "Global Government Fiscal Deficit",
+            "id": "5",
+            "description": "The difference between a government's expenditures and its revenues, expressed as a percentage of GDP, which has been rising recently in many countries.",
+            "type": "Economic Metric"
+        },
+        {
+            "name": "Global Public Debt",
+            "id": "6",
+            "description": "The total amount of money that a country's government has borrowed, which increased in 2023 as fiscal deficits rose.",
+            "type": "Economic Metric"
+        },
+        {
+            "name": "South Africa",
+            "id": "1",
+            "description": "A country located at the southern tip of Africa, it faces challenges such as a fiscal deficit and economic fluctuations.",
+            "type": "Country"
+        },
+        {
+            "name": "Fiscal Deficit",
+            "id": "2",
+            "description": "The difference between a government's expenditures and its revenues, expressed as a percentage of GDP.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Global Economic Growth",
+            "id": "3",
+            "description": "The overall increase in the economic activity of countries, contributing to the recovery of economies on a global scale.",
+            "type": "Event"
+        },
+        {
+            "name": "Foreign Direct Investment (FDI)",
+            "id": "4",
+            "description": "Investment made by a company or individual in one country in business interests in another country, which has seen a decline in flows during 2023.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse economy and cultural heritage.",
+            "type": "Country"
+        },
+        {
+            "name": "Economic Growth FY24",
+            "id": "2",
+            "description": "India's economy experienced a growth of 8.2 percent in FY24, despite facing various global challenges, driven by stable consumption and improving investment.",
+            "type": "Event"
+        },
+        {
+            "name": "Agriculture Sector",
+            "id": "3",
+            "description": "One of the key sectors contributing to India's economy, accounting for 17.7 percent of the overall GVA at current prices in FY24.",
+            "type": "Sector"
+        },
+        {
+            "name": "Industry Sector",
+            "id": "4",
+            "description": "The industrial segment of India's economy, making up 27.6 percent of the overall GVA at current prices in FY24.",
+            "type": "Sector"
+        },
+        {
+            "name": "Services Sector",
+            "id": "5",
+            "description": "The largest sector in India\u2019s economy, representing 54.7 percent of the overall GVA at current prices in FY24.",
+            "type": "Sector"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse culture, economy, and significant agricultural sector.",
+            "type": "Country"
+        },
+        {
+            "name": "Monsoon 2023",
+            "id": "2",
+            "description": "An uneven spatial distribution of the monsoon in 2023 that significantly impacted agricultural outputs, leading to a marginal decline in total foodgrain output.",
+            "type": "Event"
+        },
+        {
+            "name": "FY24",
+            "id": "3",
+            "description": "The financial year 2024, during which the agriculture sector in India experienced a total foodgrain output decline of 0.3 percent as per estimates released.",
+            "type": "Financial Year"
+        },
+        {
+            "name": "Manufacturing GVA",
+            "id": "4",
+            "description": "Gross Value Added from manufacturing, which grew by 9.9 percent in FY24 due to reduced input prices and stable domestic demand.",
+            "type": "Industry Metric"
+        },
+        {
+            "name": "HSBC India PMI",
+            "id": "5",
+            "description": "A Purchasing Managers' Index for manufacturing that remained consistently above the threshold value of 50 in FY24, indicating expansion within the sector.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse economy that includes agriculture, manufacturing, and a rapidly growing services sector.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "Global outbreak of a disease that significantly impacted economies, healthcare systems, and social interactions worldwide, particularly affecting various sectors including contact-intensive services.",
+            "type": "Event"
+        },
+        {
+            "name": "Services Sector",
+            "id": "3",
+            "description": "A major component of India's economy, encompassing a wide array of activities including retail, transport, real estate, and financial services, which have shown resilience and growth post-pandemic.",
+            "type": "Sector"
+        },
+        {
+            "name": "Private Consumption",
+            "id": "4",
+            "description": "The total spending by households on goods and services, serving as a critical measure of economic health and growth, with reported steady growth in FY24.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Gross Fixed Capital Formation",
+            "id": "5",
+            "description": "A key measure of investment in the economy, indicating the net increase in physical assets within India, which continues to rise as an important driver of GDP growth.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse culture and rapidly growing economy.",
+            "type": "Country"
+        },
+        {
+            "name": "Capex Upcycle",
+            "id": "2",
+            "description": "A significant upward movement in capital expenditures, particularly driven by government investment and private sector growth.",
+            "type": "Economic Trend"
+        },
+        {
+            "name": "Pandemic Impact",
+            "id": "3",
+            "description": "The effects on the economy and society stemming from a global health crisis, which has influenced both public and private spending patterns.",
+            "type": "Event"
+        },
+        {
+            "name": "Residential Real Estate Sales",
+            "id": "4",
+            "description": "The volume and performance of home sales in urban areas, reflecting the economic condition and consumer sentiment.",
+            "type": "Market Trend"
+        },
+        {
+            "name": "Private Corporations",
+            "id": "5",
+            "description": "Non-governmental companies that have shown increased investment and capital formation in response to economic conditions.",
+            "type": "Sector"
+        },
+        {
+            "name": "Households",
+            "id": "6",
+            "description": "Families and individuals that participate in economic activities, particularly in capital formation and investment in real estate.",
+            "type": "Economic Agent"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse economy, which includes agriculture, manufacturing, and services sectors.",
+            "type": "Country"
+        },
+        {
+            "name": "Banking and Financial Sector",
+            "id": "2",
+            "description": "A sector consisting of institutions that provide financial services, including banks, investment firms, and insurance companies, crucial for economic growth.",
+            "type": "Sector"
+        },
+        {
+            "name": "Micro, Small and Medium Enterprises (MSMEs)",
+            "id": "3",
+            "description": "A category of businesses that are defined by their small size, providing significant contributions to economic growth and job creation in India.",
+            "type": "Business"
+        },
+        {
+            "name": "Corporate Bond Market",
+            "id": "4",
+            "description": "A market where companies issue bonds to raise money for various purposes, becoming a preferred channel for large corporates seeking financing.",
+            "type": "Financial Market"
+        },
+        {
+            "name": "Housing Demand",
+            "id": "5",
+            "description": "The desire and need for housing, which has driven a surge in personal loans for housing as well as record housing sales in major cities.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "FY24",
+            "id": "6",
+            "description": "The financial year 2024, which reported significant growth in corporate bond issuances and reflects the economic dynamics in various sectors.",
+            "type": "Financial Year"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse culture and significant economic developments.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "Global outbreak of a disease that caused significant economic disruptions worldwide, affecting trade and investment.",
+            "type": "Event"
+        },
+        {
+            "name": "GDP",
+            "id": "3",
+            "description": "Gross Domestic Product, a measure of a country's economic performance, which in FY24 reached levels projected by the pre-pandemic trajectory.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Merchandise Exports",
+            "id": "4",
+            "description": "Goods that are traded internationally, which saw a marginal decline in growth in 2023 due to slowed global trade.",
+            "type": "Economic Activity"
+        },
+        {
+            "name": "Fixed Investment",
+            "id": "5",
+            "description": "Investment in fixed assets like machinery and buildings, which picked up in India, helping to counterbalance subdued exports.",
+            "type": "Economic Activity"
+        },
+        {
+            "name": "Economic Survey 2023-24",
+            "id": "6",
+            "description": "A report analyzing India's economy, highlighting its recovery trajectory and performance indicators post-pandemic.",
+            "type": "Report"
+        },
+        {
+            "name": "Proptiger Reports",
+            "id": "7",
+            "description": "Reports focusing on real estate trends in major Indian cities, providing insights on economic conditions.",
+            "type": "Report"
+        },
+        {
+            "name": "Major Cities",
+            "id": "8",
+            "description": "The eight cities referred to in the Proptiger reports: Ahmedabad, Bengaluru, Chennai, Delhi NCR, Hyderabad, Kolkata, Pune, and Mumbai MMR.",
+            "type": "Location"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia, with a diverse economy heavily reliant on services, agriculture, and manufacturing.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "A global outbreak of a disease that has led to drastic economic changes and disruptions in various sectors.",
+            "type": "Event"
+        },
+        {
+            "name": "GDP",
+            "id": "3",
+            "description": "Gross Domestic Product, a measure of the economic performance of a country, indicating the total value of goods and services produced over a specific period.",
+            "type": "Economic Variable"
+        },
+        {
+            "name": "GVA",
+            "id": "4",
+            "description": "Gross Value Added, an economic metric that measures the contribution to the economy of each individual producer, industry, or sector.",
+            "type": "Economic Variable"
+        },
+        {
+            "name": "PFCE",
+            "id": "5",
+            "description": "Private Final Consumption Expenditure, a measure of the total spending by households on goods and services.",
+            "type": "Economic Variable"
+        },
+        {
+            "name": "GFCF",
+            "id": "6",
+            "description": "Gross Fixed Capital Formation, an economic metric that measures the net increase in physical assets within the economy over a period.",
+            "type": "Economic Variable"
+        },
+        {
+            "name": "Industrial GVA",
+            "id": "7",
+            "description": "A segment of the gross value added that specifically focuses on the industrial sector's contribution to the economy.",
+            "type": "Economic Variable"
+        },
+        {
+            "name": "Services GVA",
+            "id": "8",
+            "description": "A segment of the gross value added that measures the contribution of the services sector to the overall economy.",
+            "type": "Economic Variable"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that has shown a rebound in its economic indicators post-COVID-19 pandemic.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "Global outbreak of a disease that caused significant economic contraction and led to the implementation of counter-cyclical fiscal policies.",
+            "type": "Event"
+        },
+        {
+            "name": "Capital Expenditure",
+            "id": "3",
+            "description": "Strategic public investment focused on infrastructure and services, implemented as a response to economic challenges during the pandemic.",
+            "type": "Economic Policy"
+        },
+        {
+            "name": "Digital Technologies",
+            "id": "4",
+            "description": "Technological advancements that were accelerated during the pandemic, contributing to increased ease of doing business and financial inclusion.",
+            "type": "Technological Development"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia, known for its diverse culture, economy, and demographic characteristics.",
+            "type": "Country"
+        },
+        {
+            "name": "FY23",
+            "id": "2",
+            "description": "The fiscal year 2023, which began for India amidst challenges including rising global oil prices and inflation.",
+            "type": "Fiscal Year"
+        },
+        {
+            "name": "Pandemic",
+            "id": "3",
+            "description": "Global outbreak of diseases that has significantly affected countries' economies and public health.",
+            "type": "Event"
+        },
+        {
+            "name": "Fiscal Consolidation",
+            "id": "4",
+            "description": "The process by which India has aimed to reduce the fiscal deficit and improve public finances against a backdrop of global economic challenges.",
+            "type": "Process"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that has been focusing on fiscal consolidation and revenue generation in recent years.",
+            "type": "Country"
+        },
+        {
+            "name": "Fiscal Deficit",
+            "id": "2",
+            "description": "The difference between the government's total revenue and total expenditure, indicating the financial health of the government.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Pandemic",
+            "id": "3",
+            "description": "A global outbreak of a disease that significantly impacted economies and led to changes in fiscal policies.",
+            "type": "Event"
+        },
+        {
+            "name": "Revenue Receipts",
+            "id": "4",
+            "description": "The income generated by the government through taxes and non-tax sources, which has shown a significant increase in FY24.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "Tax Revenue",
+            "id": "5",
+            "description": "The revenue collected by the government through taxes, which saw a buoyant growth of 15.8% in direct taxes in FY24.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "Direct Taxes",
+            "id": "6",
+            "description": "Taxes levied directly on individuals and organizations, contributing significantly to the gross tax revenue.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "Indirect Taxes",
+            "id": "7",
+            "description": "Taxes imposed on goods and services rather than on income or profits, with an increase of 10.6% in FY24.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia with a complex economic landscape that includes direct and indirect taxation systems, impacting various sectors of the economy.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "Global outbreak of a disease that has resulted in significant economic disruptions, changes in tax collection systems, and has influenced government revenues and compliance mechanisms.",
+            "type": "Event"
+        },
+        {
+            "name": "GST",
+            "id": "3",
+            "description": "Goods and Services Tax implemented in India, which has shown robust growth and compliance over the years, significantly impacting the economy post-pandemic.",
+            "type": "Tax"
+        },
+        {
+            "name": "E-way Bill",
+            "id": "4",
+            "description": "A document required for the movement of goods worth more than a certain value, whose generation has increased significantly post-pandemic, reflecting compliance and economic activity.",
+            "type": "Document"
+        },
+        {
+            "name": "National Monetisation Pipeline",
+            "id": "5",
+            "description": "A government initiative aimed at monetizing public assets to boost non-debt capital receipts and stimulate economic growth.",
+            "type": "Program"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that is engaged in various economic and fiscal activities including government spending, fiscal consolidation, and asset monetization.",
+            "type": "Country"
+        },
+        {
+            "name": "NMP",
+            "id": "2",
+            "description": "The National Monetization Pipeline, announced in the Union Budget FY22, aims to monetize core assets of union government ministries and public sector enterprises.",
+            "type": "Program"
+        },
+        {
+            "name": "Fiscal Consolidation",
+            "id": "3",
+            "description": "A strategy employed by the government to reduce its fiscal deficit and improve financial stability while ensuring the welfare of vulnerable sections of the society.",
+            "type": "Economic Strategy"
+        },
+        {
+            "name": "Ministry of Road Transport and Highways",
+            "id": "4",
+            "description": "A ministry of the Government of India responsible for the development and management of road transport infrastructure.",
+            "type": "Government Ministry"
+        },
+        {
+            "name": "Ministry of Coal",
+            "id": "5",
+            "description": "A ministry of the Government of India that deals with the exploration and development of coal resources and management of coal industry.",
+            "type": "Government Ministry"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse economy and various sectors of growth.",
+            "type": "Country"
+        },
+        {
+            "name": "Capex",
+            "id": "2",
+            "description": "Capital expenditure representing the funds used by an organization to acquire or upgrade physical assets such as property, industrial buildings, or equipment.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "Private Sector",
+            "id": "3",
+            "description": "The part of the economy that is run by private individuals or companies rather than the government.",
+            "type": "Economic Entity"
+        },
+        {
+            "name": "Government Expenditure",
+            "id": "4",
+            "description": "Expenditure incurred by the government for providing public services, including capital and revenue expenditures.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "Economic Growth",
+            "id": "5",
+            "description": "The increase in the inflation-adjusted market value of the goods and services produced by an economy over time.",
+            "type": "Economic Concept"
+        },
+        {
+            "name": "FY24",
+            "id": "6",
+            "description": "The financial year 2024, which in this context refers to planned governmental financial operations.",
+            "type": "Fiscal Year"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "India is a country in South Asia with a diverse economy and a rich cultural heritage. It plays a significant role in global markets and has been focusing on private sector involvement in various economic sectors.",
+            "type": "Country"
+        },
+        {
+            "name": "Private Non-Financial Corporations",
+            "id": "2",
+            "description": "Private non-financial corporations in India have seen a modest increase in their share of Gross Fixed Capital Formation (GFCF) from 34.1% to 34.9% between FY19 and FY23, primarily due to their growing investments in various sectors.",
+            "type": "Entity"
+        },
+        {
+            "name": "Government of India",
+            "id": "3",
+            "description": "The Government of India has initiated several partnerships and programs, focusing on enhancing capital expenditure in key sectors like road transport, railways, and urban development to stimulate growth and job creation.",
+            "type": "Entity"
+        },
+        {
+            "name": "Economic Survey 2023-24",
+            "id": "4",
+            "description": "The Economic Survey 2023-24 outlines the financial performance, budgeting, and expenditure trends of the Government of India, emphasizing the importance of fiscal consolidation and efficient expenditure management.",
+            "type": "Document"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse culture, economy, and governance structure.",
+            "type": "Country"
+        },
+        {
+            "name": "Fertiliser Subsidy",
+            "id": "2",
+            "description": "A financial assistance program aimed at reducing the cost of fertilisers to support agricultural production.",
+            "type": "Policy"
+        },
+        {
+            "name": "Food Subsidy",
+            "id": "3",
+            "description": "A support initiative designed to help vulnerable populations access essential food items at reduced prices.",
+            "type": "Policy"
+        },
+        {
+            "name": "State Governments of India",
+            "id": "4",
+            "description": "The various regional governing bodies responsible for managing and regulating their respective states in India.",
+            "type": "Institution"
+        },
+        {
+            "name": "Russia-Ukraine Conflict",
+            "id": "5",
+            "description": "A geopolitical crisis that influenced global supply chains and commodity prices, significantly impacting various economies.",
+            "type": "Event"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia characterized by its diverse culture, economy, and governance, and which also conducts fiscal policies impacting its states.",
+            "type": "Country"
+        },
+        {
+            "name": "Fiscal Deficit",
+            "id": "2",
+            "description": "The difference between the government's total revenue and its total expenditure, often expressed as a percentage of GDP. It indicates the financial health and budgeting practices of a state or country.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "GSDP",
+            "id": "3",
+            "description": "Gross State Domestic Product, which measures the economic performance of a state and is crucial in evaluating its fiscal transfers and tax mobilization capabilities.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Public Expenditure",
+            "id": "4",
+            "description": "Government spending on goods and services, which is essential for development and often used as a tool to address regional inequalities.",
+            "type": "Economic Activity"
+        },
+        {
+            "name": "State Governments",
+            "id": "5",
+            "description": "Administrative divisions of India that have the authority to impose taxes, manage finances, and ensure public welfare within their territories.",
+            "type": "Governance Structure"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "India is a country in South Asia known for its diverse culture and rapid economic changes. Post-pandemic, the country has focused on fiscal consolidation and economic recovery.",
+            "type": "Country"
+        },
+        {
+            "name": "Fiscal Consolidation",
+            "id": "2",
+            "description": "Fiscal consolidation refers to policies aimed at reducing government deficits and debt accumulation. It has been a focus for the Indian government post-pandemic.",
+            "type": "Economic Policy"
+        },
+        {
+            "name": "Pandemic",
+            "id": "3",
+            "description": "The pandemic refers to the global outbreak of COVID-19, which significantly impacted economies worldwide, including India.",
+            "type": "Event"
+        },
+        {
+            "name": "General Government Debt",
+            "id": "4",
+            "description": "General Government Debt represents the total debt incurred by the government and is a critical indicator of fiscal health. In India, it saw increasing trends due to various economic factors.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Interest Rates",
+            "id": "5",
+            "description": "Interest rates represent the cost of borrowing money. In India, monetary tightening led to a spike in interest rates, impacting the government's debt and fiscal strategies.",
+            "type": "Economic Factor"
+        },
+        {
+            "name": "GDP Growth",
+            "id": "6",
+            "description": "Gross Domestic Product (GDP) growth indicates the economic performance of a country. In India, nominal GDP growth was lower than budgeted due to the pandemic's effects.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its significant economic growth and diverse culture.",
+            "type": "Country"
+        },
+        {
+            "name": "S&P Global Ratings",
+            "id": "2",
+            "description": "An organization that provides credit ratings, research, and risk analysis.",
+            "type": "Agency"
+        },
+        {
+            "name": "Union Government Debt",
+            "id": "3",
+            "description": "The total amount of debt issued by the government of India, characterized by low currency and interest rate risks.",
+            "type": "Financial Instrument"
+        },
+        {
+            "name": "Credit Rating Outlook",
+            "id": "4",
+            "description": "An evaluation of the creditworthiness of a borrower, which can impact borrowing costs and investment decisions.",
+            "type": "Financial Metric"
+        },
+        {
+            "name": "Economic Growth",
+            "id": "5",
+            "description": "An increase in the production of goods and services in an economy over time.",
+            "type": "Economic Metric"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia known for its diverse culture, economy, and significant growth patterns. It has exhibited a high-growth and low-inflation trajectory during the FY22 - FY24 period.",
+            "type": "Country"
+        },
+        {
+            "name": "Inflation",
+            "id": "2",
+            "description": "The rate at which the general level of prices for goods and services is rising, eroding purchasing power. Retail inflation in India moderated from 6.7% in FY23 to 5.4% in FY24, despite various pressures.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Government",
+            "id": "3",
+            "description": "The Union Government of India, which implemented measures such as open market sales, managed the prices of fuel, and undertook timely imports to stabilize inflation rates in the country.",
+            "type": "Entity"
+        },
+        {
+            "name": "RBI",
+            "id": "4",
+            "description": "The Reserve Bank of India, responsible for regulating the monetary policy of the Indian rupee. It raised policy rates to control inflation while ensuring growth through adequate liquidity.",
+            "type": "Entity"
+        },
+        {
+            "name": "RBI",
+            "id": "1",
+            "description": "The Reserve Bank of India, which oversees the country's banking and financial system.",
+            "type": "Institution"
+        },
+        {
+            "name": "SCBs",
+            "id": "2",
+            "description": "Scheduled Commercial Banks in India, key players in the Indian banking sector.",
+            "type": "Institution"
+        },
+        {
+            "name": "Consumer Price Indices",
+            "id": "3",
+            "description": "Indices that reflect the average change in prices over time that consumers pay for a basket of goods and services.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Non-Banking Financial Companies (NBFCs)",
+            "id": "4",
+            "description": "Financial institutions that provide various banking services but do not hold a banking license.",
+            "type": "Institution"
+        },
+        {
+            "name": "Financial Stability Report",
+            "id": "5",
+            "description": "A report published by the RBI assessing the stability and resilience of the financial system.",
+            "type": "Report"
+        },
+        {
+            "name": "Macroeconomic Stress Tests",
+            "id": "6",
+            "description": "Analytical tools used to evaluate a financial institution's ability to operate under adverse economic conditions.",
+            "type": "Methodology"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "India is a country in South Asia that is experiencing significant economic growth supported by progressive policy reforms, economic stability, and attractive investment avenues.",
+            "type": "Country"
+        },
+        {
+            "name": "Economic Survey FY24",
+            "id": "2",
+            "description": "A report detailing India's economic performance, including its merchandise and service exports, trade deficits, and foreign investment inflows during the fiscal year 2024.",
+            "type": "Report"
+        },
+        {
+            "name": "Global Economic Uncertainties",
+            "id": "3",
+            "description": "This term refers to ongoing global challenges affecting economic activity, including weaker global demand and geopolitical tensions.",
+            "type": "Event"
+        },
+        {
+            "name": "Foreign Direct Investment (FDI)",
+            "id": "4",
+            "description": "Investments made by a company or individual in one country in business interests in another country, reflecting a significant decline in net inflows due to global economic conditions.",
+            "type": "Investment"
+        },
+        {
+            "name": "Foreign Portfolio Investment (FPI)",
+            "id": "5",
+            "description": "Investments by foreign entities in the financial markets of India, indicating a positive trend in FY24 as net inflows increased after two years of outflows.",
+            "type": "Investment"
+        },
+        {
+            "name": "Current Account Deficit (CAD)",
+            "id": "6",
+            "description": "A measure of a country's trade balance, specifically the difference between its exports and imports. India's CAD improved to 0.7% of GDP in FY24.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that is managing its external sector effectively, with significant foreign exchange reserves and a stable currency.",
+            "type": "Country"
+        },
+        {
+            "name": "External Debt",
+            "id": "2",
+            "description": "External debt refers to the total amount of money that a country owes to foreign creditors. For India, as of end-March 2024, the external debt as a ratio to GDP was reported at a low level of 18.7 percent.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Fiscal Deficit",
+            "id": "3",
+            "description": "The fiscal deficit is a measure of the government's total borrowing requirements. The Indian Government aims to reduce its fiscal deficit to 4.5 percent of GDP or lower by FY26.",
+            "type": "Economic Indicator"
+        },
+        {
+            "name": "Forex Reserves",
+            "id": "4",
+            "description": "Foreign exchange reserves are the total of a country's hold of foreign currencies and gold. India\u2019s forex reserves were sufficient to cover 11 months of projected imports as of March 2024.",
+            "type": "Economic Measure"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "India is a country located in South Asia, known for its diverse culture, history, and significant economic developments, including efforts to maintain macroeconomic stability.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "The pandemic refers to a global outbreak of disease, impacting economies and societies around the world, including significant effects on sovereign debt and economic growth.",
+            "type": "Event"
+        },
+        {
+            "name": "MoSPI",
+            "id": "3",
+            "description": "The Ministry of Statistics and Programme Implementation (MoSPI) is the nodal ministry responsible for the planned and integrated development of the Indian statistical system, publishing important economic indices and surveys.",
+            "type": "Government Agency"
+        },
+        {
+            "name": "Macroeconomic Vulnerability Index",
+            "id": "4",
+            "description": "An index calculated by combining various economic indicators like fiscal deficit, current account deficit (CAD), and inflation to assess the stability of a country's economy.",
+            "type": "Index"
+        },
+        {
+            "name": "Ministry of Statistics and Programme Implementation",
+            "id": "1",
+            "description": "An Indian government agency responsible for the formulation and administration of statistical policies.",
+            "type": "Government Agency"
+        },
+        {
+            "name": "Annual Survey of Unincorporated Sector Enterprises",
+            "id": "2",
+            "description": "A new survey initiated to gather data on unincorporated sector enterprises in India.",
+            "type": "Survey"
+        },
+        {
+            "name": "Time-Use Survey",
+            "id": "3",
+            "description": "A survey focused on understanding how people spend their time across various activities.",
+            "type": "Survey"
+        },
+        {
+            "name": "Pilot for Annual Survey of Service Sector Enterprises",
+            "id": "4",
+            "description": "A pilot initiative aimed at conducting annual surveys on service sector enterprises.",
+            "type": "Pilot Program"
+        },
+        {
+            "name": "PLFS Data",
+            "id": "5",
+            "description": "Periodic Labour Force Survey data that provides information on employment and unemployment in India.",
+            "type": "Data"
+        },
+        {
+            "name": "Unified Data Portal",
+            "id": "6",
+            "description": "A project aimed at creating a centralised database and storage system for statistical data.",
+            "type": "Project"
+        },
+        {
+            "name": "2047 Goals",
+            "id": "7",
+            "description": "India's long-term developmental goals set to be achieved by the year 2047.",
+            "type": "Goal"
+        },
+        {
+            "name": "Consumer Price Index",
+            "id": "8",
+            "description": "An economic metric that measures the average change over time in the prices paid by consumers for goods and services.",
+            "type": "Index"
+        },
+        {
+            "name": "Producer Price Index",
+            "id": "9",
+            "description": "An index that measures the average change over time in the selling prices received by domestic producers for their output.",
+            "type": "Index"
+        },
+        {
+            "name": "Index of Industrial Production",
+            "id": "10",
+            "description": "An index that measures the growth rate of industry in various sectors of the economy.",
+            "type": "Index"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia with a diverse economy, housing a large populace and various sectors including agriculture, industry, and services.",
+            "type": "Country"
+        },
+        {
+            "name": "GST",
+            "id": "2",
+            "description": "Goods and Services Tax, a comprehensive indirect tax regime implemented in India, which simplifies the taxation process and increases compliance by businesses.",
+            "type": "Policy"
+        },
+        {
+            "name": "MSMEs",
+            "id": "3",
+            "description": "Micro, Small, and Medium Enterprises that play a crucial role in the economy by contributing to job creation and industrial output.",
+            "type": "Economic Sector"
+        },
+        {
+            "name": "XV Finance Commission",
+            "id": "4",
+            "description": "A constitutional body in India mandated to recommend measures for increasing the consolidated fund of the states and to determine the distribution of tax revenues.",
+            "type": "Government Body"
+        },
+        {
+            "name": "CAG",
+            "id": "5",
+            "description": "Comptroller and Auditor General of India, responsible for the audit of the accounts of the Union and the States, providing accountability and transparency in government finances.",
+            "type": "Government Body"
+        },
+        {
+            "name": "High-frequency price monitoring",
+            "id": "6",
+            "description": "A technique used to periodically assess prices of essential food items, aiding in price stabilization efforts by governments.",
+            "type": "Analysis Method"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that has experienced a shift in its social welfare approach, moving from an input-based system to an outcome-based empowerment model.",
+            "type": "Country"
+        },
+        {
+            "name": "Pradhan Mantri Jan Arogya Yojana",
+            "id": "2",
+            "description": "A health insurance scheme launched in India to provide affordable healthcare to the underprivileged sections of society.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "Ayushman Bharat Digital Mission",
+            "id": "3",
+            "description": "An initiative aimed at creating a digital health ecosystem in India, facilitating access to healthcare services and improving patient data management.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "PM Ujjwala Yojana",
+            "id": "4",
+            "description": "A government scheme to provide free LPG connections to women from below the poverty line, promoting cleaner cooking fuel and improving health.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "Swacch Bharat Mission",
+            "id": "5",
+            "description": "A nationwide campaign in India aimed at cleaning up the streets, roads, and infrastructure of cities and rural areas.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "Jan Dhan Yojana",
+            "id": "6",
+            "description": "A financial inclusion initiative launched by the Government of India to provide banking services to the unbanked population.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "PM-AWAS Yojana",
+            "id": "7",
+            "description": "A housing initiative aimed at providing affordable housing to the urban and rural poor in India.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "Aspirational Districts Programme",
+            "id": "8",
+            "description": "A program initiated in 2018 focusing on the development of the most backward districts in India to improve the quality of life of residents.",
+            "type": "Government Initiative"
+        },
+        {
+            "name": "Labour Bureau",
+            "id": "9",
+            "description": "An organization responsible for conducting surveys related to workers and employment in India, ensuring the availability of reliable labor market data.",
+            "type": "Organization"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that has launched various programs aimed at improving its socio-economic conditions and addressing inequality as part of its ongoing development efforts.",
+            "type": "Country"
+        },
+        {
+            "name": "Aspirational Blocks Programme",
+            "id": "2",
+            "description": "A program launched in 2023 to uplift and develop specific blocks in India, inspired by successful initiatives to enhance rural and border area development.",
+            "type": "Program"
+        },
+        {
+            "name": "Vibrant Villages Programme",
+            "id": "3",
+            "description": "A program targeted towards the development of border areas in India, aiming to improve living conditions and provide better facilities to the residents.",
+            "type": "Program"
+        },
+        {
+            "name": "Viksit Bharat Sankalp Yatra",
+            "id": "4",
+            "description": "An event that took place starting November 15, 2023, which saw participation from 15 crore people, promoting the vision of a developed India.",
+            "type": "Event"
+        },
+        {
+            "name": "Direct Benefit Transfer (DBT)",
+            "id": "5",
+            "description": "A government initiative that began in 2013 aimed at transferring subsidies directly to beneficiaries to increase fiscal efficiency and reduce leakage.",
+            "type": "Scheme"
+        },
+        {
+            "name": "Labour Force Participation Rate",
+            "id": "6",
+            "description": "A measure indicating the percentage of the working-age population that is engaged in the labor force, which has seen changes since the pandemic.",
+            "type": "Statistic"
+        },
+        {
+            "name": "Unemployment Rate",
+            "id": "7",
+            "description": "The measure of the number of unemployed people in the workforce, which has been declining in India post-pandemic.",
+            "type": "Statistic"
+        },
+        {
+            "name": "Gender Participation in Labour",
+            "id": "8",
+            "description": "The observed rise in female labor force participation rate in India, increasing from 23.3% in 2017-18 to 37% in 2022-23.",
+            "type": "Statistic"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "India is a country in South Asia known for its diverse culture, economy, and history.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "The pandemic refers to the global outbreak of a disease, specifically COVID-19, which had significant impacts on global economies and societies.",
+            "type": "Event"
+        },
+        {
+            "name": "Multidimensional Poverty",
+            "id": "3",
+            "description": "Multidimensional poverty refers to the multiple deprivations that individuals face, including health, education, and living standards, and was notably discussed in NITI Aayog\u2019s documentation.",
+            "type": "Concept"
+        },
+        {
+            "name": "Household Consumption Expenditure Survey (HCES)",
+            "id": "4",
+            "description": "The HCES is an economic measure in India that evaluates the consumption spending of households and showcases trends over time, providing insights into economic well-being.",
+            "type": "Survey"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "India is a country in South Asia that has seen significant economic growth over the past decade, averaging a 6.6 percent annual rate until FY20, before being impacted by the pandemic in FY21.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "The pandemic caused a global outbreak of disease, leading to a significant 5.8 percent decline in India\u2019s economic growth in FY21.",
+            "type": "Event"
+        },
+        {
+            "name": "IMF",
+            "id": "3",
+            "description": "The International Monetary Fund (IMF) projects global economic growth and monitors economic trends affecting countries worldwide.",
+            "type": "Organization"
+        },
+        {
+            "name": "RBI",
+            "id": "4",
+            "description": "The Reserve Bank of India (RBI) is the central bank of India responsible for regulating the country\u2019s monetary policy.",
+            "type": "Organization"
+        },
+        {
+            "name": "India",
+            "id": "1",
+            "description": "A country in South Asia that is experiencing economic changes and growth driven by various domestic and global factors.",
+            "type": "Country"
+        },
+        {
+            "name": "Pandemic",
+            "id": "2",
+            "description": "Global outbreak of a disease that has impacted economic conditions and market valuations across the globe.",
+            "type": "Event"
+        },
+        {
+            "name": "Information Technology Sector",
+            "id": "3",
+            "description": "A sector that involves the development and management of computer-based information systems, which has seen slowed hiring in FY24.",
+            "type": "Industry"
+        },
+        {
+            "name": "RBI",
+            "id": "4",
+            "description": "The Reserve Bank of India, which regulates the Indian monetary policy and maintains economic stability.",
+            "type": "Institution"
+        },
+        {
+            "name": "GDP Growth",
+            "id": "5",
+            "description": "The measure of economic activity that indicates the growth rate of the country's economy, with a forecast of 6.5-7 percent for the upcoming period.",
+            "type": "Economic Measure"
+        },
+        {
+            "name": "Market Expectations",
+            "id": "1",
+            "description": "A measure of investor sentiment regarding future economic performance, indicating that expectations are currently elevated.",
+            "type": "Economic Indicator"
+        }
+    ],
+    "relationships": [
+        {
+            "type": "affected_by",
+            "context": "India's economy faced significant challenges due to the global pandemic, prompting economic responses.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "implemented",
+            "context": "The Atmanirbhar Bharat Abhiyan was launched by India to provide relief and drive recovery during the pandemic.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "adopted",
+            "context": "India adopted digitalisation of service delivery as a primary response to economic adversities during the pandemic.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "impacted_by",
+            "context": "Supply chain disruptions caused by the pandemic had adverse effects on India's economic stability.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "The Indian economy has bounced back from the pandemic's impacts, showing strong recovery and growth, with expectations for continued inclusive growth in FY25 as it adapts to post-pandemic challenges.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "monitored_by",
+            "context": "The global economy's performance and conditions are regularly analyzed and reported on by the International Monetary Fund, providing crucial data to understand economic health and trends.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "impacted_by",
+            "context": "The global economy has been significantly affected by the pandemic, influencing growth rates, trade dynamics, and economic stability worldwide.",
+            "to": "4",
+            "from": "2"
+        },
+        {
+            "type": "affects",
+            "context": "Geopolitical tensions reflected in the Geopolitical Risk Index have implications for global trade, influencing supply chains and market stability.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "indicates",
+            "context": "The Global Supply Chain Pressure Index indicates the level of pressure in global trade, directly affecting the flow and exchange of goods and services.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "influences",
+            "context": "Inflationary pressures, exacerbated by geopolitical tensions, have contributed to moderated growth in global trade and economic activities.",
+            "to": "3",
+            "from": "4"
+        },
+        {
+            "type": "affected_by",
+            "context": "Moderation in foreign direct investment (FDI) flows has been influenced by rising geopolitical tensions outlined in the Geopolitical Risk Index.",
+            "to": "1",
+            "from": "5"
+        },
+        {
+            "type": "analyzes",
+            "context": "The World Economic Outlook analyzes the impacts of inflation on various economies and projects future economic conditions.",
+            "to": "4",
+            "from": "6"
+        },
+        {
+            "type": "affected_by",
+            "context": "India experienced a steep decline in economic growth during the pandemic but managed a quick recovery driven by private consumption and infrastructure investment.",
+            "to": "8",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "China had only a slight moderation in growth during the pandemic due to immediate policy actions, but subsequent growth has slowed because of underlying structural issues.",
+            "to": "8",
+            "from": "2"
+        },
+        {
+            "type": "affected_by",
+            "context": "The United States faced high inflationary pressures during the pandemic which led to significant changes in policy rates affecting economic performance.",
+            "to": "8",
+            "from": "3"
+        },
+        {
+            "type": "affected_by",
+            "context": "The Euro area saw subdued economic activity during the pandemic, influenced by both domestic structural issues and geopolitical conflicts.",
+            "to": "8",
+            "from": "4"
+        },
+        {
+            "type": "affected_by",
+            "context": "Germany's economic growth was significantly affected by the economic shocks resulting from the Russia-Ukraine conflict, leading to a downturn.",
+            "to": "8",
+            "from": "5"
+        },
+        {
+            "type": "affected_by",
+            "context": "France's economic performance was dampened during the pandemic largely due to external geopolitical factors impacting the region.",
+            "to": "8",
+            "from": "6"
+        },
+        {
+            "type": "affected_by",
+            "context": "Japan's economic growth has been initially subdued post-pandemic but is anticipated to improve in the near future.",
+            "to": "8",
+            "from": "7"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "Indonesia's economic indicators suggest growth resilience in the face of global economic changes as tracked by the Global PMI.",
+            "to": "9",
+            "from": "1"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "Italy's economic performance, evidenced by its GDP growth, is impacted by the trends highlighted in the Global PMI.",
+            "to": "9",
+            "from": "2"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "Japan's GDP numbers align with the broader trends observed in the Global PMI, indicating resilience amid global uncertainties.",
+            "to": "9",
+            "from": "3"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "Mexico's economic outlook is shaped by the moving averages suggested in the Global PMI framework.",
+            "to": "9",
+            "from": "4"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "South Africa's economic conditions, as indicated by its GDP, are tested against the global economic backdrop modeled in the Global PMI.",
+            "to": "9",
+            "from": "5"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "Thailand's economic performance is reflective of the insights derived from the Global PMI data.",
+            "to": "9",
+            "from": "6"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "The United Kingdom's growth trajectory is influenced by the prevailing trends reported by the Global PMI.",
+            "to": "9",
+            "from": "7"
+        },
+        {
+            "type": "economically_influenced_by",
+            "context": "The United States' GDP recovery is documented alongside the indicators derived from the Global PMI.",
+            "to": "9",
+            "from": "8"
+        },
+        {
+            "type": "affects",
+            "context": "The Red Sea crisis has geopolitical implications that could potentially impact the economic recovery trajectories of the United States and other nations.",
+            "to": "8",
+            "from": "10"
+        },
+        {
+            "type": "caused",
+            "context": "The events occurring in the Middle East in October 2023 led to supply chain disruptions that have significantly affected global trade and operations.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "impacting",
+            "context": "Attacks on commercial shipping in the Red Sea have contributed to increased global transportation costs, which in turn affects global trade and operations.",
+            "to": "4",
+            "from": "3"
+        },
+        {
+            "type": "influencing",
+            "context": "The easing of supply chain pressures has caused fluctuations in the Geopolitical Risk Index, which reflects changing perceptions of international stability.",
+            "to": "5",
+            "from": "2"
+        },
+        {
+            "type": "triggered",
+            "context": "The Russia - Ukraine conflict has triggered supply chain disruptions affecting multiple economies, especially in energy and food sectors.",
+            "to": "2",
+            "from": "6"
+        },
+        {
+            "type": "affected_by",
+            "context": "India's economy has been significantly affected by the global pandemic, leading to economic slowdowns and changes in monetary policy.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "The European Central Bank's monetary policy decisions have been influenced by the pandemic, which prompted considerations regarding inflation and interest rates.",
+            "to": "2",
+            "from": "3"
+        },
+        {
+            "type": "affected_by",
+            "context": "The Federal Reserve's policy adjustments and interest rate decisions have been heavily shaped by the ongoing effects of the pandemic on the U.S. economy.",
+            "to": "2",
+            "from": "4"
+        },
+        {
+            "type": "responded_to",
+            "context": "China's government has taken measures to provide economic stimulus in response to the challenges posed by the pandemic, particularly in its struggling real estate sector.",
+            "to": "2",
+            "from": "5"
+        },
+        {
+            "type": "influences",
+            "context": "The National Financial Conditions Index in the United States reflects the significant easing of financial conditions compared to March 2022.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "impacts",
+            "context": "The trajectory of inflation in the United States is uncertain due to expansionary fiscal policies and easing financial conditions.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "correlates_with",
+            "context": "The increase in global government fiscal deficit has contributed to the uptick in global public debt witnessed in 2023.",
+            "to": "6",
+            "from": "5"
+        },
+        {
+            "type": "has_fiscal_deficit",
+            "context": "South Africa's general government fiscal deficit as a percentage of GDP in 2023 indicates economic challenges despite global growth.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "impact_on",
+            "context": "Global economic growth in 2023 was modest, with a fiscal deficit affecting South Africa's economic stability.",
+            "to": "2",
+            "from": "3"
+        },
+        {
+            "type": "has_declining_FDI",
+            "context": "Concerns of geopolitical conflicts and high borrowing costs have led to a weakening of foreign direct investment inflows in South Africa.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "experienced",
+            "context": "India recorded an impressive economic growth of 8.2 percent in FY24, indicative of its resilient domestic economy.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "includes",
+            "context": "The agricultural sector contributed to India's economic growth, despite facing slower growth due to erratic weather patterns.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "includes",
+            "context": "The industrial sector played a key role in supporting economic growth in FY24, making up a significant portion of the GVA.",
+            "to": "4",
+            "from": "2"
+        },
+        {
+            "type": "includes",
+            "context": "The services sector was the largest contributor to the GVA in India, driving economic momentum in FY24.",
+            "to": "5",
+            "from": "2"
+        },
+        {
+            "type": "impacted_by",
+            "context": "The uneven spatial distribution of the monsoon in 2023 substantially impacted India's agricultural output, contributing to a marginal decline in foodgrain production for FY24.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "resulted_in",
+            "context": "The effects of the uneven monsoon distribution resulted in a decline of 0.3 percent in total foodgrain output during the financial year 2024.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "associated_with",
+            "context": "India's manufacturing GVA improved significantly in FY24, correlating with economic factors influenced by agricultural trends.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "measured_by",
+            "context": "The economic stability in India\u2019s manufacturing sector is tracked by the HSBC India PMI, which in FY24 indicated sustained expansion.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "India's economy was notably impacted by the pandemic, which disrupted various sectors and led to significant changes in service delivery and consumption patterns.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "has_strong_growth_in",
+            "context": "The services sector in India has experienced substantial growth post-pandemic, incorporating greater technology and digital content while recovering from earlier setbacks.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "drives",
+            "context": "Private consumption has been a steadfast contributor to India's GDP growth, with real terms growth of 4.0 percent in FY24, reflecting strong urban and rural demand.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "is_driven_by",
+            "context": "Gross Fixed Capital Formation has increasingly become a vital factor in India's economic growth as it represents the investments made in fixed assets.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "driven_by",
+            "context": "The economic upcycle in capital expenditures has been supported by government capital spending, indicating a robust fiscal policy focus.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "The economy of India has been influenced by the pandemic, initiating changes in spending and investment behaviors.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "contributes_to",
+            "context": "Private corporations played a crucial role in the capital expenditure upcycle, showing a significant increase in their investments during FY23 and FY24.",
+            "to": "2",
+            "from": "5"
+        },
+        {
+            "type": "influences",
+            "context": "Households significantly impact residential real estate sales, contributing to the demand and growth observed in urban housing markets.",
+            "to": "4",
+            "from": "6"
+        },
+        {
+            "type": "is_supported_by",
+            "context": "The banking and financial sector in India is well-positioned to provide the necessary funding to meet the growing investments and financing needs of various segments.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "provides_financing",
+            "context": "The banking and financial sector continues to provide increasing credit to MSMEs, reflecting the growth potential and financing demands within this segment.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "supports_growth_due_to",
+            "context": "The banking and financial sector has facilitated a surge in personal loans aligned with the increasing housing demand, signifying a correlation between finance and real estate growth.",
+            "to": "5",
+            "from": "2"
+        },
+        {
+            "type": "shows_growth_in",
+            "context": "The corporate bond market witnessed a significant increase in issuances during FY24, indicating a strong reliance on this financial instrument by large corporates.",
+            "to": "6",
+            "from": "4"
+        },
+        {
+            "type": "affected_by",
+            "context": "India's economy experienced significant changes and challenges due to the pandemic, impacting trade and investment flows.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "has_indicator",
+            "context": "India's GDP has shown a recovery to pre-pandemic levels in FY24, reflecting economic resilience and growth.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "affects",
+            "context": "Merchandise exports underwent a decline in 2023, which had implications for India's overall GDP growth.",
+            "to": "3",
+            "from": "4"
+        },
+        {
+            "type": "supports",
+            "context": "The increase in fixed investment in India played a crucial role in bolstering GDP growth amid slow export performance.",
+            "to": "3",
+            "from": "5"
+        },
+        {
+            "type": "analyzed_in",
+            "context": "The Economic Survey 2023-24 provides detailed insights into how India's economy is recovering and the factors contributing to growth post-pandemic.",
+            "to": "6",
+            "from": "1"
+        },
+        {
+            "type": "reports_on",
+            "context": "The Proptiger reports analyze economic trends and conditions in major Indian cities, reflecting urban economic dynamics.",
+            "to": "1",
+            "from": "7"
+        },
+        {
+            "type": "located_in",
+            "context": "The major cities mentioned in the Proptiger reports are located within India and are significant hubs of economic activity.",
+            "to": "1",
+            "from": "8"
+        },
+        {
+            "type": "affected_by",
+            "context": "India experienced significant economic disruption and changes across various sectors due to the pandemic, which led to a contraction in economic activity.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "impact_on",
+            "context": "The pandemic had a profound impact on India's GDP, leading to fluctuations in economic performance and a reassessment of growth projections.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "impact_on",
+            "context": "Gross Value Added in India witnessed significant changes as a result of the pandemic, affecting growth trajectories across various sectors.",
+            "to": "4",
+            "from": "2"
+        },
+        {
+            "type": "impact_on",
+            "context": "Private Final Consumption Expenditure in India fluctuated during the pandemic, reflecting changes in consumer behavior and economic uncertainty.",
+            "to": "5",
+            "from": "2"
+        },
+        {
+            "type": "impact_on",
+            "context": "The pandemic's effects extended to Gross Fixed Capital Formation in India, influencing investment trends and capital accumulation.",
+            "to": "6",
+            "from": "2"
+        },
+        {
+            "type": "impact_on",
+            "context": "Industrial GVA faced challenges during the pandemic, leading to a lag in recovery compared to pre-pandemic projections.",
+            "to": "7",
+            "from": "2"
+        },
+        {
+            "type": "impact_on",
+            "context": "The services sector in India was significantly affected by the pandemic, leading to a lag in recovery and a reassessment of service-based economic projections.",
+            "to": "8",
+            "from": "2"
+        },
+        {
+            "type": "affected_by",
+            "context": "The Indian economy was significantly impacted by the pandemic, leading to a sharp contraction followed by recovery that projected higher growth rates post-pandemic.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "India implemented counter-cyclical fiscal policies focused on capital expenditure to drive economic growth and recovery during the pandemic.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "adopts",
+            "context": "The pandemic prompted rapid adoption of digital technologies in India, enhancing financial inclusion and improving business operations.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "experiences",
+            "context": "India faced multiple economic challenges during the fiscal year 2023 driven by both domestic price pressures and external factors.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "undergoes",
+            "context": "India has undertaken fiscal consolidation to address the challenges encountered during FY23, improving its macroeconomic stability.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "During FY23, the domestic economy was significantly impacted by the global pandemic, which increased uncertainty across various economic sectors.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "affected_by",
+            "context": "India experienced a significant fiscal restructuring in response to the economic turmoil caused by the pandemic.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "reports",
+            "context": "The fiscal deficit of India is reported as a percentage of GDP, reflecting the government's financial performance over the fiscal years.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "generates",
+            "context": "The Union Government's revenue receipts have increased due to buoyant growth in both tax and non-tax revenues in FY24.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "comprises",
+            "context": "Tax revenue is composed of direct taxes and indirect taxes, showing a strong growth in direct taxes as part of the government's effort to enhance tax progressivity.",
+            "to": "6",
+            "from": "5"
+        },
+        {
+            "type": "comprises",
+            "context": "Tax revenue also includes indirect taxes, reflecting the overall financial strategy of the Union Government in FY24.",
+            "to": "7",
+            "from": "5"
+        },
+        {
+            "type": "affected_by",
+            "context": "Economic impact due to the pandemic has led to a decline in direct tax collection percentage, and changes in indirect tax revenue structures.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "influenced",
+            "context": "The pandemic has influenced GST collection patterns, leading to a 12.7 percent growth in FY24, and the E-way bill generation has improved as a result.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "related_to",
+            "context": "The increase in GST collection is closely associated with the rise in E-way bill generation, indicating enhanced compliance in trade and transport.",
+            "to": "4",
+            "from": "3"
+        },
+        {
+            "type": "implements",
+            "context": "The National Monetisation Pipeline is a part of India's strategy to boost economic recovery post-pandemic by leveraging public assets.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "India launched the NMP to enhance capital allocation by monetizing government assets, with an expected \u20b96 lakh crore over a four-year period.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "pursues",
+            "context": "The Indian government is pursuing fiscal consolidation while protecting vulnerable populations and investing in productive capacities.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "collaborates_with",
+            "context": "The NMP includes contributions from the Ministry of Road Transport and Highways, which has been instrumental in identifying assets for monetization.",
+            "to": "4",
+            "from": "2"
+        },
+        {
+            "type": "collaborates_with",
+            "context": "The NMP also includes contributions from the Ministry of Coal, highlighting the involvement of multiple ministries in asset monetization efforts.",
+            "to": "5",
+            "from": "2"
+        },
+        {
+            "type": "invests_in",
+            "context": "The government's capital expenditure in India for FY24 stood at \u20b99.5 lakh crore, indicating a significant investment in public infrastructure.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "part_of",
+            "context": "Capex is a critical component of government expenditure, aimed at enhancing productive capacities across various sectors.",
+            "to": "4",
+            "from": "2"
+        },
+        {
+            "type": "drives",
+            "context": "Government expenditure through capex is a crucial driver of economic growth amidst uncertain global conditions.",
+            "to": "5",
+            "from": "4"
+        },
+        {
+            "type": "influences",
+            "context": "While government capex boosts economic growth, the private sector is also expected to contribute significantly to capital formation.",
+            "to": "3",
+            "from": "5"
+        },
+        {
+            "type": "applies_to",
+            "context": "Government capex policies are particularly focused for the financial year FY24, stimulating further productive spending.",
+            "to": "6",
+            "from": "4"
+        },
+        {
+            "type": "partner_with",
+            "context": "The Government of India is collaborating with private non-financial corporations to enhance investment in various sectors, which is crucial for economic growth and job generation.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "analyzed_in",
+            "context": "The Economic Survey 2023-24 analyzes the role of private non-financial corporations in India's economy, showcasing their increasing share in GFCF and the necessary steps for sustained growth.",
+            "to": "4",
+            "from": "2"
+        },
+        {
+            "type": "reported_in",
+            "context": "The Government of India's financial strategies and performance are reported in the Economic Survey 2023-24, which highlights changing expenditure patterns and the focus on key sectors.",
+            "to": "4",
+            "from": "3"
+        },
+        {
+            "type": "implements",
+            "context": "The Indian government implements fertiliser subsidies to support farmers and curb the high costs of agricultural inputs.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "The Indian government introduced food subsidies to protect vulnerable sections of the population from hunger and ensure food security.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "manages",
+            "context": "State governments manage and facilitate the distribution of fertiliser subsidies to farmers across various states in India.",
+            "to": "2",
+            "from": "4"
+        },
+        {
+            "type": "manages",
+            "context": "State governments oversee the implementation of food subsidies to ensure that vulnerable populations receive adequate food support.",
+            "to": "3",
+            "from": "4"
+        },
+        {
+            "type": "impact",
+            "context": "The rise in fertiliser prices during FY23 was largely due to the supply chain disruptions caused by the Russia-Ukraine conflict.",
+            "to": "2",
+            "from": "5"
+        },
+        {
+            "type": "improves_financial_management",
+            "context": "State governments of India have shown improved financial management, resulting in a reduction of gross fiscal deficit compared to the budgeted figures.",
+            "to": "1",
+            "from": "4"
+        },
+        {
+            "type": "experiences",
+            "context": "India's fiscal deficit has been a critical economic challenge, influencing budget allocations and financial strategies at both state and national levels.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "correlates_with",
+            "context": "Fiscal deficit is often analyzed in conjunction with GSDP to understand the fiscal health and economic management of individual states.",
+            "to": "3",
+            "from": "2"
+        },
+        {
+            "type": "influences",
+            "context": "The level of GSDP affects how much public expenditure can be appropriated by state governments to address developmental needs.",
+            "to": "4",
+            "from": "3"
+        },
+        {
+            "type": "engages_in",
+            "context": "State governments actively engage in public expenditure to stimulate economic growth and provide essential services to their populations.",
+            "to": "4",
+            "from": "5"
+        },
+        {
+            "type": "affected_by",
+            "context": "India was significantly affected by the pandemic, leading to various fiscal challenges and economic reforms.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "pursued",
+            "context": "Post-pandemic, India pursued fiscal consolidation to manage rising debt and restore economic stability.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "influenced_by",
+            "context": "The General Government Debt in India is influenced by fiscal consolidation policies aimed at reducing the deficit.",
+            "to": "2",
+            "from": "4"
+        },
+        {
+            "type": "impact_on",
+            "context": "Interest rates have a significant impact on General Government Debt, with spikes leading to increased borrowing costs for the government.",
+            "to": "4",
+            "from": "5"
+        },
+        {
+            "type": "related_to",
+            "context": "General Government Debt is related to GDP growth rates, as stronger growth typically indicates better fiscal health and lower debt ratios.",
+            "to": "4",
+            "from": "6"
+        },
+        {
+            "type": "has_debt",
+            "context": "The Union Government's debt is an important financial aspect of India's economy, with a low share of external debt.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "upgraded_rating",
+            "context": "In May 2024, S&P Global Ratings upgraded India\u2019s sovereign credit rating outlook from \u2018stable\u2019 to \u2018positive\u2019 due to its robust economic growth and sound economic fundamentals.",
+            "to": "1",
+            "from": "2"
+        },
+        {
+            "type": "impacts",
+            "context": "The sustained improvement in fiscal metrics and reduction of government debt contribute directly to economic growth.",
+            "to": "5",
+            "from": "3"
+        },
+        {
+            "type": "experiences",
+            "context": "India experienced a notable decline in retail inflation due to various government policies and actions during the FY24 financial year.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "controls",
+            "context": "The Government of India undertook measures to control inflation, which included open market sales, pricing regulations, and reduced fuel prices.",
+            "to": "2",
+            "from": "3"
+        },
+        {
+            "type": "regulates",
+            "context": "The RBI regulates inflation in India by adjusting monetary policy rates and managing liquidity levels to stabilize economic growth and inflation.",
+            "to": "2",
+            "from": "4"
+        },
+        {
+            "type": "regulates",
+            "context": "The RBI regulates the scheduled commercial banks to maintain the stability of the financial system.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "publishes",
+            "context": "The RBI publishes the Financial Stability Report to indicate the resilience of the banking and financial systems.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "evaluated_by",
+            "context": "Scheduled Commercial Banks are evaluated through macro stress tests to determine their ability to withstand economic shocks.",
+            "to": "6",
+            "from": "2"
+        },
+        {
+            "type": "sets_norms_for",
+            "context": "The RBI sets regulatory norms for Non-Banking Financial Companies to ensure financial stability, particularly regarding unsecured lending.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "influences",
+            "context": "Consumer Price Indices influence the regulatory policies set forth by the RBI for maintaining economic stability.",
+            "to": "1",
+            "from": "3"
+        },
+        {
+            "type": "described_by",
+            "context": "The Economic Survey FY24 outlines India's economic performance amidst global uncertainties and policy reforms.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "India's economy is impacted by global economic uncertainties, which affect its merchandise exports and overall growth.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "receives",
+            "context": "India's net FDI inflows experienced a decline in FY24, reflecting broader trends in global FDI flows.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "receives",
+            "context": "Robust FPI inflows in FY24 have helped India fund its current account deficit and build foreign exchange reserves.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "has_indicated",
+            "context": "The Current Account Deficit of India improved to 0.7% of GDP in FY24, attributed to various factors like service exports and FPI inflows.",
+            "to": "6",
+            "from": "1"
+        },
+        {
+            "type": "has_economic_indicator",
+            "context": "India's external debt vulnerability indicators show a ratio of external debt to GDP at a low level.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "manages",
+            "context": "The Government of India aims to achieve fiscal consolidation by maintaining a fiscal deficit target of 4.5 percent of GDP or lower by FY26.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "holds",
+            "context": "India has a comfortable level of forex reserves that are sufficient to cover around 11 months of imports, indicating strong management of its external sector.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "India's economy faced challenges during the pandemic, leading to changes in sovereign debt dynamics and macroeconomic stability measures.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "governed_by",
+            "context": "MoSPI governs and oversees the statistical systems that are vital for informed decision-making and policy development in India.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "measured_by",
+            "context": "The macroeconomic vulnerability index for India reflects the country's economic stability by incorporating important factors like fiscal deficit and inflation.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "initiated_survey",
+            "context": "The Ministry of Statistics and Programme Implementation has initiated the annual survey of unincorporated sector enterprises as part of its efforts to enhance statistical data collection.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "initiated_survey",
+            "context": "A time-use survey has been initiated by the Ministry to understand how citizens utilize their time on various activities.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "initiated_pilot",
+            "context": "The Ministry is running a pilot program for an annual survey to gather data specific to service sector enterprises.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "increasing_frequency",
+            "context": "The Ministry is working towards increasing the frequency of PLFS data to provide more accurate employment statistics.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "developing_project",
+            "context": "The Unified Data Portal project is being developed to create a centralized database that will support various data initiatives.",
+            "to": "6",
+            "from": "1"
+        },
+        {
+            "type": "supports_goals",
+            "context": "Efforts by the Ministry are integral for achieving India's developmental goals set for the year 2047.",
+            "to": "7",
+            "from": "1"
+        },
+        {
+            "type": "revising_base_year",
+            "context": "An extensive exercise for base revision of the Consumer Price Index is being undertaken to change the base year from 2012 to 2024.",
+            "to": "8",
+            "from": "1"
+        },
+        {
+            "type": "expediting_index",
+            "context": "The Ministry is expediting efforts to construct the producer price index to address issues of cost-push inflation.",
+            "to": "9",
+            "from": "1"
+        },
+        {
+            "type": "updating_index",
+            "context": "The Index of Industrial Production is being revised to reflect more current economic conditions and geographical patterns.",
+            "to": "10",
+            "from": "1"
+        },
+        {
+            "type": "uses",
+            "context": "The implementation of GST in India has streamlined tax processes for over 1.3 crore entities, thereby enhancing the economic landscape.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "supports",
+            "context": "The growth and development of MSMEs are essential for India's economic stability, contributing significantly to employment and production.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "collaborates_with",
+            "context": "The XV Finance Commission works with the CAG to establish common fiscal data standards, providing transparent and comparable financial statistics for better governance.",
+            "to": "5",
+            "from": "4"
+        },
+        {
+            "type": "employs",
+            "context": "India's government utilizes high-frequency price monitoring to ensure the stability of essential food item prices, thus improving responses to economic changes.",
+            "to": "6",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "The Government of India has implemented the Pradhan Mantri Jan Arogya Yojana as part of its social welfare initiatives aimed at empowering underprivileged sections of society.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "The Government has launched the Ayushman Bharat Digital Mission to enhance healthcare delivery and facilitate disease surveillance.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "Under the PM Ujjwala Yojana, the Government aims to provide free LPG connections to improve health and cooking standards.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "The Swacch Bharat Mission was launched to promote sanitation and cleanliness across the country.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "Jan Dhan Yojana was initiated to ensure financial inclusion for all citizens, enhancing access to banking services.",
+            "to": "6",
+            "from": "1"
+        },
+        {
+            "type": "implements",
+            "context": "PM-AWAS Yojana is aimed at providing affordable housing solutions to the urban poor and promoting social upliftment.",
+            "to": "7",
+            "from": "1"
+        },
+        {
+            "type": "focuses_on",
+            "context": "The Aspirational Districts Programme targets the development of the most backward areas of India, ensuring that no person is left behind.",
+            "to": "8",
+            "from": "1"
+        },
+        {
+            "type": "oversees",
+            "context": "The Labour Bureau conducts various surveys related to labor and employment, which are critical for data-driven policy making in India.",
+            "to": "9",
+            "from": "1"
+        },
+        {
+            "type": "launched",
+            "context": "The Aspirational Blocks Programme was launched in India in 2023 to foster targeted development in underperforming blocks.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "implemented",
+            "context": "The Vibrant Villages Programme was implemented in India to stimulate growth and development in border regions.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "hosted",
+            "context": "India hosted the Viksit Bharat Sankalp Yatra, an event aimed at rallying support for the vision of a developed nation.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "utilizes",
+            "context": "India utilizes the Direct Benefit Transfer scheme to streamline subsidy distribution and improve financial management since its inception in 2013.",
+            "to": "5",
+            "from": "1"
+        },
+        {
+            "type": "shows_change",
+            "context": "The labour force participation rate in India has been improving, indicating a recovery in employment opportunities following the pandemic.",
+            "to": "6",
+            "from": "1"
+        },
+        {
+            "type": "indicates",
+            "context": "The declining unemployment rate in India demonstrates the recovery of its job market since the impacts of the pandemic.",
+            "to": "7",
+            "from": "1"
+        },
+        {
+            "type": "exhibits_change",
+            "context": "The increase in the female labor force participation rate illustrates the growing economic empowerment of women in India.",
+            "to": "8",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "India's economy faced significant challenges and changes as a result of the pandemic, impacting various sectors and livelihoods.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "experiences",
+            "context": "The incidence of multidimensional poverty in India has decreased significantly from 2015-16 to 2022-23, indicating improvements in living standards due to targeted poverty reduction efforts.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "influenced_by",
+            "context": "The trends observed in the Household Consumption Expenditure Survey (HCES) in 2022-23 reveal insights about rising consumption spending in India, reflecting inclusive growth over the past decade.",
+            "to": "4",
+            "from": "1"
+        },
+        {
+            "type": "affected_by",
+            "context": "India experienced a significant economic decline due to the global pandemic, which led to a 5.8 percent contraction in FY21 and affected the GDP trajectory.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "projects_growth_for",
+            "context": "The IMF projects the global economy, including India\u2019s recovery and growth prospects, to grow at 3.2 percent in 2024, reflecting the anticipated improvements in economic conditions.",
+            "to": "1",
+            "from": "3"
+        },
+        {
+            "type": "influences",
+            "context": "The RBI's monetary policy stance is influenced by global economic conditions, including inflation and interest rate decisions that may arise from geopolitical conflicts or changes in the global market.",
+            "to": "1",
+            "from": "4"
+        },
+        {
+            "type": "affected_by",
+            "context": "The pandemic has had significant economic ramifications for India, affecting household finances and corporate valuations.",
+            "to": "2",
+            "from": "1"
+        },
+        {
+            "type": "influences",
+            "context": "The information technology sector's hiring is being affected by economic conditions, which may hinder growth prospects.",
+            "to": "3",
+            "from": "1"
+        },
+        {
+            "type": "regulates",
+            "context": "The RBI regulates economic policies in India while maintaining an eye on external factors like the US Federal Reserve.",
+            "to": "1",
+            "from": "4"
+        },
+        {
+            "type": "projects",
+            "context": "The forecast for GDP growth in India is projected to be between 6.5% to 7% amid various socio-economic dynamics.",
+            "to": "5",
+            "from": "1"
+        }
+    ]
+}
